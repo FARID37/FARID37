@@ -5,20 +5,20 @@
 ### Hey <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px">, I'm [FARID SYAHRUDIN]()
 
 <!-- Talking about you -->
+
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working on [E-Voting APP](https://github.com/FARID37/E-Voting);
-- 🌱 I’m currently learning PHP and Laravel; 
-- 👯 I’m looking to collaborate on [E-Voting](https://github.com/FARID37/E-Voting) 🤝;
-- 🤔 I’m looking for help with Design Pattern 😭;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I am very embarrassed when talking face to face;
-- 📫 How to reach me: faridsyahrudin174@gmail.com;
+- 👨🏽‍💻 I’m currently not working
+- 🌱 I’m currently learning NodeJS and Laravel
+- 🤔 I’m looking for help with Design Pattern 😭
+- 💬 Ask me about anything, I am happy to help
+- ⚡️ Fun-Fact: I am very embarrassed when talking face to face
+- 📫 How to reach me: faridsyahrudin174@gmail.com
 
-**Languages and Tools:** 
+**Languages and Tools:**
 
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
@@ -52,9 +52,6 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 <!-- Its main projects -->
 <p align="center">
-  <a href="https://github.com/FARID37/E-Voting">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FARID37&repo=E-Voting" />
-  </a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FARID37&layout=compact" />
 </p>
 
@@ -71,11 +68,6 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
 -->
-<p align="center">
-  <a href="http://hits.dwyl.com/FARID37/FARID37" target="_blank">
-    <img align="center" alt="HitCount" src="http://hits.dwyl.com/FARID37/FARID37.svg" />
-  </a>
-</p>
 
 <!--
 **FARID37/FARID37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
